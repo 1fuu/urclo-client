@@ -20,6 +20,6 @@ React를 이용한 클라이언트 측 소스
 
 판매자와 구매자의 채팅 기능
 
-### `styled-components`와 bootstrap을 이용한 디자인
+### `styled-components와 bootstrap을 이용한 디자인`
 
 ### `redux를 이용한 상태관리`
