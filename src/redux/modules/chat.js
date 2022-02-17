@@ -1,0 +1,2 @@
+const SOCK_CONNECT = 'chat/SOCK_CONNECT';
+const SOCK_DISCONNECT = 'chat/SOCK_DISCONNECT';
